@@ -1,0 +1,128 @@
+viewCompanies // ver empresas de todos
+companies //seccion clientes
+editCompanies //editar clientes
+deleteCompanies //eliminar clientes
+assignCompanies //asignar responsable de cliente
+reassignCompanies // al editar una empresa poder cambiar de responsable
+
+viewContacts // ver contactos de todos
+editContacts // editar contactos
+deleteContacts // eliminar contactos
+
+viewQuotations // ver cotizaciones de todos
+quotations //seccion ventas
+assignQuotations //asignar responsable de venta/cotizacion
+editQuotations //editar cotizacion
+deleteQuotations //editar cotizacion
+
+viewSales // ver ventas de todos
+sales //seccion ventas 
+editSales //editar ventas 
+deleteSales //eliminar ventas 
+printTicket //reimprimir ticket de venta
+scheduled_sales //calendario de ventas
+
+cancelations //seccion de ventas canceladas
+viewCancelations // ver cancelaciones de todos
+
+viewActivities // ver actividades de todos
+activities //seccion actividades
+editActivities //editar actividades
+assignActivities //asignar responsable de actividad
+deleteActivities //eliminar actividades
+
+collections //seccion cobranza
+assignCollections //asignar responsable cobranza
+editCollections //editar cobranza
+deleteCollections //eliminar cobranza
+viewCollections // ver cobranzas de todos
+
+viewShippings // ver envios de todos
+shippings //seccion envios
+editShippings //editar envios
+deleteShippings //eliminar envios
+printShippings //imprmir envios
+shipping_details //detalle de envios
+editShippingDetails //editar detalle de envios
+deleteShippingDetails //eliminar deyalle de envios
+
+viewExpenses // ver gastos de todos
+expenses //seccion gastos
+editExpenses //editar gastos
+deleteExpenses //eliminar gastos
+
+pay_rolls //seccion nominas
+printPayrolls //imprimir nominas
+editPayrolls //editar nominas
+deletePayrolls //eliminar nominas
+
+shoppings //seccion compras
+viewShoppings // ver compras de todos
+editShoppings //editar compras
+deleteShoppings //eliminar compras
+
+editShoppingOrder //editar detalles de compras
+deleteShoppingOrder //eliminar detalles de compras
+
+providers //seccion proveedores
+provider_payments //seccion pagos a proveedores
+editProviderPayments //editar pagos a proveedor
+deleteProviderPayments //eliminar pagos a proveedor
+
+productions //seccion producciones
+viewProductions // ver producciones de todos
+editProductions //editar producciones
+deleteProductions //eliminar producciones
+editProductionOrder //editar detalles de produccion
+deleteProductionOrder //eliminar detalles de produccion
+
+physical_inventories //seccion Inventario Físico
+inventory_transfer //seccion Transferir Inventario
+report_inventory //seccion Movimientos de Inventario
+inventory //seccion de Inventario
+adjustments //seccion ajustes de Inventario
+deleteAdjustments // eliminar ajustes de Inventario
+editAdjustments // editar ajustes de Inventario
+
+calls //seccion llamadas
+viewCallRecords //ver grabaciones de llamadas 
+viewCalls //ver llamadas de otros 
+
+catalogs //catalogos
+users //catalogo de usuarios
+roles // Acceso a Roles
+
+download //Permiso descargar todo 
+activityLog //seccion bitacora
+reports //seccion reportes
+balances //seccion saldos vencidos
+
+
+invoices //seccion facturas
+receipts //seccion recibos para facturar
+globalInvoice //generar facturas globales por metodo de pago
+cancelInvoice //cancelar facturas
+complemento_de_pago //generar complemento de pago desde cobranza o facturas
+generateInvoice //generar factura desde la venta o caja
+regenerateInvoice //generar una segunda factura a la misma venta
+
+deleteNotes //eliminarnotas
+assignNotes //asignar nota
+
+utilities //ver utilidades en ventas y reportes
+utility //ver utilidades en detalle de ventas
+
+messages//seccion mensajes
+viewMesages//ver mensajes de todos
+
+ferreteria// acceso a caja
+
+orders //seccion Pedidos x Surtir
+orders_ready //seccion Pedidos Surtidos
+
+
+leads //seccion prospectos
+assignLeads //asignar responsable prospectos
+raw_material//seccion materia prima
+
+viewCosts

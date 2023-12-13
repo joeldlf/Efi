@@ -1,0 +1,74 @@
+id,name,guard_name,created_at,updated_at,label,category
+1,companies,*,,,Acceso a Clientes,Clientes
+2,viewCompanies,*,,,Ver Clientes de Todos de Todos,Clientes
+3,editCompanies,*,,,Editar Clientes,Clientes
+4,deleteCompanies,*,,,Eliminar Clientes,Clientes
+5,assignCompanies,*,,,Asignar Clientes,Clientes
+6,reassignCompanies,*,,,Reasignar Clientes,Clientes
+7,viewBranchesCompanies,*,,,Ver Clientes de Otras Sucursales,Clientes
+8,editContacts,*,,,Editar Contactos,Contactos
+9,deleteContacts,*,,,Eliminar Contactos,Contactos
+10,activities,*,,,Acceso a Actividades,Actividades
+11,viewActivities,*,,,Ver Actividades de Todos de Todos,Actividades
+12,editActivities,*,,,Editar Actividades,Actividades
+13,deleteActivities,*,,,Eliminar Actividades,Actividades
+14,assignActivities,*,,,Asignar Actividades,Actividades
+15,viewBranchesActivities,*,,,Ver Actividades de Otras Sucursales,Actividades
+16,quotations,*,,,Acceso a Cotizaciones,Cotizaciones
+17,viewQuotations,*,,,Ver Cotizaciones de Todos de Todos,Cotizaciones
+18,editQuotations,*,,,Editar Cotizaciones,Cotizaciones
+19,deleteQuotations,*,,,Eliminar Cotizaciones,Cotizaciones
+20,assignQuotations,*,,,Asignar Cotizaciones,Cotizaciones
+21,viewBranchesQuotations,*,,,Ver Cotizaciones de Otras Sucursales,Cotizaciones
+22,cancelations,*,,,Acceso a Cancelaciones,Cancelaciones
+23,viewCancelations,*,,,Ver Cancelaciones de Todos,Cancelaciones
+24,viewBranchesCancelations,*,,,Ver Cancelaciones de Otras Sucursales,Cancelaciones
+25,sales,*,,,Acceso a Ventas,Ventas
+26,viewSales,*,,,Ver Ventas de Todos de Todos,Ventas
+27,editSales,*,,,Editar Ventas,Ventas
+28,deleteSales,*,,,Eliminar Ventas,Ventas
+29,assignSales,*,,,Asignar Ventas,Ventas
+30,printTicket,*,,,Imprimir Ticket,Ventas
+31,viewBranchesSales,*,,,Ver Ventas de Otras Sucursales,Ventas
+32,sale_details,*,,,Acceso a Detalles de Ventas,Ventas
+33,editSales,*,,,Editar Detalles de Ventas,Ventas
+34,deleteSales,*,,,Eliminar Detalles de Ventas,Ventas
+35,collections,*,,,Acceso a Cobranzas,Cobranzas
+36,editCollections,*,,,Editar Cobranzas,Cobranzas
+37,deleteCollections,*,,,Eliminar Cobranzas,Cobranzas
+38,assignCollections,*,,,Asignar Cobranzas,Cobranzas
+39,viewBranchesCollections,*,,,Ver Cobranzas de Otras Sucursales,Cobranzas
+40,ferreteria,*,,,Acceso a Caja,Cobranzas
+41,shippings,*,,,Acceso a Envíos,Envíos
+42,editShippings,*,,,Editar Envíos,Envíos
+43,deleteShippings,*,,,Eliminar Envíos,Envíos
+44,printShippings,*,,,Imprimir Envíos,Envíos
+45,viewBranchesShippings,*,,,Ver Envíos de Otras Sucursales,Envíos
+46,shipping_details,*,,,Acceso a Detalles de Envíos,Envíos
+47,editShippingDetails,*,,,Editar Detalles de Envíos,Envíos
+48,deleteShippingDetails,*,,,Eliminar Detalles de Envíos,Envíos
+49,shoppings,*,,,Acceso a Compras,Compras
+50,editShoppings,*,,,Editar Compras,Compras
+51,deleteShoppings,*,,,Eliminar Compras,Compras
+52,viewBranchesShoppings,*,,,Ver Compras de Otras Sucursales,Compras
+53,shopping_details,*,,,Acceso a Detalles de Compras,Compras
+54,editShoppingOrders,*,,,Editar Detalles de Compras,Compras
+55,deleteShoppingOrders,*,,,Eliminar Detalles de Compras,Compras
+56,providers,*,,,Acceso a Proveedores,Proveedores
+57,editProviders,*,,,Editar Proveedores,Proveedores
+58,deleteProviders,*,,,Eliminar Proveedores,Proveedores
+59,provider_payments,*,,,Acceso Pagos a Proveedores,Proveedores
+60,editProviderPayments,*,,,Editar Pagos a Proveedores,Proveedores
+61,deleteProviderPayments,*,,,Eliminar Pagos a Proveedores,Proveedores
+62,viewBranchesPayments,*,,,Ver Pagos a Proveedores de Otras Sucursales,Proveedores
+63,inventory,*,,,Acceso a Productos,Inventario
+64,report_inventory,*,,,Acceso a Movimientos de Inventario,Inventario
+65,viewBranchesInventories,*,,,Ver Inventario de Otras Sucursales,Inventario
+66,physical_inventories,*,,,Acceso a Inventario Físico,Inventario
+67,viewBranchesInventories,*,,,Acceso a Transferencias de Inventario,Inventario
+68,catalogs,*,,,Acceso a Catálogos,Catálogos
+69,users,*,,,Acceso a Usuarios,Usuarios
+70,roles,*,,,Acceso a Roles,Usuarios
+71,reports,*,,,Acceso a Reportes,Reportes
+72,assignNotes,*,,,Asignar Notas,Notas
+73,view_costs,*,,,Ver Costos de Productos,Personalizados

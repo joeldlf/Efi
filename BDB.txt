@@ -1,0 +1,181 @@
+BDB
+
+liga(){
+    return process.env.VUE_APP_BACKEND_ROUTE
+},
+
+if(this.liga != 'https://backendbdb.unocrm.mx/')
+v-if="liga != 'https://backendbdb.unocrm.mx/'"
+
+Dashboard - se cambia por POS
+Reportes - se quito nominas, gastos y kilos
+
+Calendario
+* activities //seccion actividades
+* editActivities //editar actividades
+* assignActivities //asignar responsable de actividad
+
+Actividades
+* activities //seccion actividades
+* editActivities //editar actividades
+* assignActivities //asignar responsable de actividad
+* deleteActivities //eliminar actividades
+* download //Permiso descargar todo 
+
+Llamadas - se esconde
+* calls //seccion llamadas
+* viewCallRecords //ver grabaciones de llamadas 
+
+Mensajes - se esconde
+* messages//seccion mensajes
+
+Clientes - se modifico con datos necesarios
+* companies //seccion clientes
+* editCompanies //editar clientes
+* deleteCompanies //eliminar clientes
+* assignCompanies //asignar responsable de cliente
+* download //Permiso descargar todo 
+
+Prospectos - se esconde
+* leads //seccion prospectos
+* assignLeads //asignar responsable prospectos
+
+Ventas
+* utilities //ver utilidades en ventas y reportes
+* utility //ver utilidades en detalle de ventas
+* sales //seccion ventas 
+* editSales //editar ventas 
+* deleteSales //eliminar ventas 
+* printTicket //reimprimir ticket de venta
+* assignQuotations //asignar responsable de venta/cotizacion
+* download //Permiso descargar todo 
+
+Pedidos - se desarrollo este modulo de calendario de ventas 
+* scheduled_sales //calendario de ventas
+
+Cobranza
+* collections //seccion cobranza
+* assignCollections //asignar responsable cobranza
+* editCollections //editar cobranza
+* deleteCollections //eliminar cobranza
+* download //Permiso descargar todo 
+
+Cotizaciones
+* quotations //seccion cotizacion
+* assignQuotations //asignar responsable de venta/cotizacion
+* editQuotations //editar cotizacion
+* deleteQuotations //editar cotizacion
+* download //Permiso descargar todo 
+
+Saldos Vencidos - se esconde
+* balances //seccion saldos vencidos
+
+Cancelaciones
+* cancelations //seccion de ventas canceladas
+* download //Permiso descargar todo 
+
+Pedidos x Surtir - se esconde
+* orders //seccion Pedidos x Surtir
+
+Pedidos Surtidos - se esconde
+* orders_ready //seccion Pedidos Surtidos
+
+Envíos - se configuro para que desde punto de venta se marque como surtido y se pueda programar entrega
+* shippings //seccion envios
+* editShippings //editar envios
+* deleteShippings //eliminar envios
+* printShippings //imprmir envios
+* shipping_details //detalle de envios
+* editShippingDetails //editar detalle de envios
+* deleteShippingDetails //eliminar deyalle de envios
+* download //Permiso descargar todo 
+
+Gastos - se esconde
+* expenses //seccion gastos
+* editExpenses //editar gastos
+* deleteExpenses //eliminar gastos
+* download //Permiso descargar todo 
+
+Compras
+* shoppings //seccion compras
+* editShoppings //editar compras
+* deleteShoppings //eliminar compras
+* editShoppingOrder //editar de compras
+* deleteShoppingOrder //eliminar detalles de compras
+* download //Permiso descargar todo 
+
+Proveedores
+* providers //seccion proveedores
+
+Pagos Proveedores
+* provider_payments //seccion pagos a proveedores
+* editProviderPayments //editar pagos a proveedor
+* deleteProviderPayments //eliminar pagos a proveedor
+* download //Permiso descargar todo 
+
+Producción - se esconde
+* productions //seccion producciones
+* editProductions //editar producciones
+* deleteProductions //eliminar producciones
+* editProductionOrder //editar detalles de produccion
+* deleteProductionOrder //eliminar detalles de produccion
+* download //Permiso descargar todo 
+
+Catalogo de Productos - se esconde
+
+Productos - se esconde
+
+Inventario  - Se creo una nueva especial
+* inventory //seccion de Inventario
+
+Materia prima - se esconde
+* raw_material//seccion materia prima
+
+Ajustes
+* adjustments //seccion ajustes de Inventario
+* download //Permiso descargar todo 
+
+Inventario Fisico
+* physical_inventories //seccion Inventario Físico
+
+Transferir Inventario - se desarrollo este modulo
+* inventory_transfer //seccion Transferir Inventario
+
+Movimientos
+* report_inventory //seccion Movimientos de Inventario
+
+Nominas - se esconde
+* pay_rolls //seccion nominas
+* printPayrolls //imprimir nominas
+* editPayrolls //editar nominas
+* deletePayrolls //eliminar nominas
+* download //Permiso descargar todo 
+
+Utilidades - se esconde
+* utilities //ver utilidades en ventas y reportes
+* utility //ver utilidades en detalle de ventas
+* download //Permiso descargar todo 
+
+Facturas - se esconde
+* invoices //seccion facturas
+* receipts //seccion recibos para facturar
+* globalInvoice //generar facturas globales por metodo de pago
+* cancelInvoice //cancelar facturas
+* complemento_de_pago //generar complemento de pago desde cobranza o facturas
+* generateInvoice //generar factura desde la venta o caja
+* regenerateInvoice //generar una segunda factura a la misma venta
+
+Bitácoras - se esconde
+* activityLog //seccion bitacora
+
+Caja - se escondió botón “generar factura”
+
+POS - se agrego descuento global
+
+Notas - se esconde
+* deleteNotes //eliminarnotas
+* assignNotes //asignar nota
+
+Ajustes - se esconde opción de manejar usuarios
+* catalogs //catalogo
+* users //catalogo de usuarios
